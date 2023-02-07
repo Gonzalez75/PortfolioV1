@@ -154,7 +154,6 @@ em {
 
 .Container {
   display: flex;
-  align-items: center;
 }
 
 .Left-div {
@@ -163,4 +162,12 @@ em {
 
 .Right-div {
   float: right;
+}
+
+div img {
+  width: 96px;
+}
+
+.Margin {
+  padding-left: 110px;
 }
